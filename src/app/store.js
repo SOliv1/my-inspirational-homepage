@@ -1,8 +1,11 @@
-import { configureStore } from '@reduxjs/toolkit';
-import counterReducer from '../features/counter/counterSlice';
+import { configureStore } from "@reduxjs/toolkit";
+import backgroundImageReducer from "../features/backgroundImage/backgroundImageSlice";
+import weatherReducer from "../features/weather/weatherSlice";
 
-export const store = configureStore({
+
+export default configureStore({
   reducer: {
-    counter: counterReducer,
-  },
+    backgroundImage: backgroundImageReducer,
+    weather: weatherReducer,
+  }
 });
