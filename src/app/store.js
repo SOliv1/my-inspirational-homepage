@@ -6,6 +6,6 @@ import weatherReducer from "../features/weather/weatherSlice";
 export default configureStore({
   reducer: {
     backgroundImage: backgroundImageReducer,
-    weather: weatherReducer,
+    weather: weatherReducer
   }
 });

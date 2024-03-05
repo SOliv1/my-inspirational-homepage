@@ -2,7 +2,7 @@ import React from "react";
 import { useDispatch } from "react-redux";
 import { switchToPreviousBackgroundImage } from "../backgroundImageSlice";
 
-const BackgroundImageLeftControl = () => {
+const BackgroundImageLeft = () => {
   const dispatch = useDispatch();
 
   return (
@@ -17,4 +17,4 @@ const BackgroundImageLeftControl = () => {
   );
 };
 
-export default BackgroundImage;
+export default BackgroundImageLeft;

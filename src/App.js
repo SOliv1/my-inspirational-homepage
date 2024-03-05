@@ -9,20 +9,17 @@ function App() {
     <div className="App">
       <BackgroundImage />
       <header>
-        <Error />
         <Weather />
       </header>
       <aside className="left-wallpaper-control wallpaper-control">
         <BackgroundImageLeft />
       </aside>
       <main>
-        <Journal />
       </main>
       <aside className="right-wallpaper-control wallpaper-control">
         <BackgroundImageRight />
       </aside>
       <footer>
-      <Quote />
       </footer>
     </div>
   );
