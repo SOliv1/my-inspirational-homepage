@@ -1,4 +1,5 @@
 [![NodeJS with Webpack](https://github.com/SOliv1/inspirational-page/actions/workflows/webpack.yml/badge.svg)](https://github.com/SOliv1/inspirational-page/actions/workflows/webpack.yml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/08b3bc36-2207-48ae-8e1b-3c7cacb6197c/deploy-status)](https://app.netlify.com/sites/inspirational-page/deploys)
 Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
@@ -53,4 +54,5 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-# inspirational-page
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/08b3bc36-2207-48ae-8e1b-3c7cacb6197c/deploy-status)](https://app.netlify.com/sites/inspirational-page/deploys)
