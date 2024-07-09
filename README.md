@@ -8,6 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## npm update npm -g
 
+## npm install -g npm@latest
+
 In the project directory, you can run:
 
 ### `npm start`
