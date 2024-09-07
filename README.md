@@ -59,4 +59,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/08b3bc36-2207-48ae-8e1b-3c7cacb6197c/deploy-status)](https://app.netlify.com/sites/inspirational-page/deploys)
+
