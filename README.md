@@ -56,7 +56,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f397f410-9033-4d89-bb68-ed68bb11a5db/deploy-status?branch=master)](https://app.netlify.com/sites/my-inspirationalhomepage/deploys) [![pages-build-deployment](https://github.com/SOliv1/inspirational-homepage/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/SOliv1/inspirational-homepage/actions/workflows/pages/pages-build-deployment)[![Dependabot Updates](https://github.com/SOliv1/inspirational-homepage/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/SOliv1/inspirational-homepage/actions/workflows/dependabot/dependabot-updates)
+[ [![pages-build-deployment](https://github.com/SOliv1/inspirational-homepage/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/SOliv1/inspirational-homepage/actions/workflows/pages/pages-build-deployment)[![Dependabot Updates](https://github.com/SOliv1/inspirational-homepage/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/SOliv1/inspirational-homepage/actions/workflows/dependabot/dependabot-updates)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f397f410-9033-4d89-bb68-ed68bb11a5db/deploy-status?branch=master)](https://app.netlify.com/sites/my-inspirationalhomepage/deploys)
 
 View Deployed Site on Netlify [Here](https://my-inspirationalhomepage.netlify.app/)
